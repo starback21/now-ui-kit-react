@@ -138,7 +138,7 @@ function Tabs() {
                 </CardBody>
               </Card>
             </Col>
-            <Col className="ml-auto mr-auto" md="10" xl="6">
+            <Col className="ml-auto mr-auto" md="5" xl="6">
               <p className="category">Tabs with Background on Card</p>
               <Card>
                 <CardHeader>

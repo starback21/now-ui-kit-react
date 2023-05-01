@@ -114,12 +114,12 @@
 }
 
 .section-story-overview{
-    padding: 50px 0;
+    padding: 0 0 0 150px;
 
     .image-container{
         height: 335px;
         position: relative;
-        background-position: center center;
+        background-position: center top;
         background-size: cover;
         box-shadow: $box-shadow-raised;
         border-radius: .25rem;
@@ -142,7 +142,7 @@
 
         &:nth-child(2){
             margin-top: 420px;
-            margin-left: -105px;
+            margin-left: -75px;
         }
     }
 
